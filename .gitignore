@@ -1,0 +1,35 @@
+# dependencies and build output
+node_modules/
+dist/
+.vite/
+
+# logs
+*.log
+npm-debug.log*
+
+# env / local config
+.env
+.env.*
+.vercel/
+
+# editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# reference photos are for drawing from only; keep them out of the repo
+reference/*
+!reference/.gitkeep
+
+# map-data: python env, downloaded imagery (private reference only, never shipped)
+tools/map-data/.venv/
+tools/map-data/data/tiles/
+tools/map-data/data/satellite/
+tools/map-data/output/_tmp.png
+tools/map-data/output/*
+!tools/map-data/output/osm_only.png
+__pycache__/
+.vercel
+.env*

@@ -1,0 +1,143 @@
+{
+  "stage": {
+    "w": 192,
+    "h": 288
+  },
+  "scenes": {
+    "a-block": {
+      "file": "a-block.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "b-block": {
+      "file": "b-block.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    },
+    "c-block": {
+      "file": "c-block.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "d-block": {
+      "file": "d-block.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    },
+    "e-block": {
+      "file": "e-block.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "pg-block": {
+      "file": "pg-block.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    },
+    "peb": {
+      "file": "peb.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "siniti": {
+      "file": "siniti.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    },
+    "sac": {
+      "file": "sac.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "sports-complex": {
+      "file": "sports-complex.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    },
+    "vjim": {
+      "file": "vjim.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "canteen": {
+      "file": "canteen.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    },
+    "ground": {
+      "file": "ground.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "main-gate": {
+      "file": "main-gate.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "left"
+    },
+    "thatibellam": {
+      "file": "thatibellam.png",
+      "floorTop": 200,
+      "floorBottom": 272,
+      "enterFrom": "right"
+    }
+  },
+  "finale": {
+    "file": "finale.png",
+    "floorTop": 200,
+    "floorBottom": 272,
+    "cake": {
+      "file": "cake.png",
+      "w": 40,
+      "h": 32,
+      "flames": "flames.png",
+      "frameW": 3,
+      "frameH": 5,
+      "frames": 4,
+      "smoke": "smoke.png",
+      "smokeFrameW": 5,
+      "smokeFrameH": 7,
+      "smokeFrames": 4,
+      "_candles": "top-left of a flame frame relative to cake top-left",
+      "candles": [
+        [
+          10,
+          1
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          17,
+          1
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          24,
+          1
+        ],
+        [
+          27,
+          1
+        ]
+      ]
+    }
+  }
+}

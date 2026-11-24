@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 247679683,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 158309554,
+    "lat": "17.5405755",
+    "lon": "78.3858349",
+    "class": "leisure",
+    "type": "pitch",
+    "place_rank": 30,
+    "importance": 5.36987869077137e-05,
+    "addresstype": "leisure",
+    "name": "VNRVJIET Womens Basketball Court",
+    "display_name": "VNRVJIET Womens Basketball Court, Hanuman Marg, Bachupally mandal, Medchal–Malkajgiri, Telangana, 500090, India",
+    "boundingbox": [
+      "17.5404169",
+      "17.5407294",
+      "78.3857129",
+      "78.3859543"
+    ]
+  },
+  {
+    "place_id": 249700889,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 158318321,
+    "lat": "17.5405288",
+    "lon": "78.3860012",
+    "class": "leisure",
+    "type": "pitch",
+    "place_rank": 30,
+    "importance": 5.36987869077137e-05,
+    "addresstype": "leisure",
+    "name": "VNRVJIET Womens Throwball Court",
+    "display_name": "VNRVJIET Womens Throwball Court, Hanuman Marg, Bachupally mandal, Medchal–Malkajgiri, Telangana, 500090, India",
+    "boundingbox": [
+      "17.5404199",
+      "17.5406347",
+      "78.3859242",
+      "78.3860765"
+    ]
+  },
+  {
+    "place_id": 250226318,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1705434070,
+    "lat": "17.5398470",
+    "lon": "78.3862085",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 5.36987869077137e-05,
+    "addresstype": "highway",
+    "name": "VNRVJIET Student Bus-Stop",
+    "display_name": "VNRVJIET Student Bus-Stop, Hanuman Marg, Pragathi Nagar, Bachupally mandal, Medchal–Malkajgiri, Telangana, 500090, India",
+    "boundingbox": [
+      "17.5397970",
+      "17.5398970",
+      "78.3861585",
+      "78.3862585"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+# Upload only what the build needs; never reference/, tools/ (satellite imagery) or docs.
+/*
+!/src
+!/public
+!/index.html
+!/package.json
+!/package-lock.json
+!/vite.config.js

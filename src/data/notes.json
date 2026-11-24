@@ -1,0 +1,62 @@
+{
+  "_help": "One letter per friend. title = short heading, text = the memory (use \\n for a new paragraph), photo = a file you put in public/assets/photos/, written as assets/photos/<file>.jpg, or \"\" for no photo. Optional, written on the back of the photo (she taps the polaroid to flip it): photoDate = when it was taken (e.g. \"12 Mar 2024\"), photoLocation = where (a location id like \"canteen\", or any short text), photoCaption = a short handwritten caption. finale.text is the group message shown at the end.",
+  "jathin": {
+    "title": "[PLACEHOLDER] A memory from Jathin",
+    "text": "[PLACEHOLDER: Jathin writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "anudeep": {
+    "title": "[PLACEHOLDER] A memory from Anudeep",
+    "text": "[PLACEHOLDER: Anudeep writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "laasya": {
+    "title": "[PLACEHOLDER] A memory from Laasya",
+    "text": "[PLACEHOLDER: Laasya writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "asritha": {
+    "title": "[PLACEHOLDER] A memory from Asritha",
+    "text": "[PLACEHOLDER: Asritha writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "joel": {
+    "title": "[PLACEHOLDER] A memory from Joel",
+    "text": "[PLACEHOLDER: Joel writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "bhavana": {
+    "title": "[PLACEHOLDER] A memory from Bhavana",
+    "text": "[PLACEHOLDER: Bhavana writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "prabhu": {
+    "title": "[PLACEHOLDER] A memory from Prabhu",
+    "text": "[PLACEHOLDER: Prabhu writes their real letter here.]\n\nHappy birthday! This is where a favourite memory of her goes: the day, the place on campus, what made it special.\n\nIt can be as long as you like; the letter scrolls.",
+    "photo": "",
+    "photoDate": "",
+    "photoLocation": "",
+    "photoCaption": ""
+  },
+  "finale": {
+    "text": "[PLACEHOLDER: the group message from all of you, shown after she blows out the candles.]"
+  }
+}

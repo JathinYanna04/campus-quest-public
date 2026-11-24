@@ -1,0 +1,28 @@
+{
+  "crs": "EPSG:32644",
+  "units": "meters",
+  "origin_utm": {
+    "x": 222206.4881880427,
+    "y": 1940741.5756723841
+  },
+  "origin_wgs84": {
+    "lon": 78.38341789720363,
+    "lat": 17.535799575309063
+  },
+  "bbox_size_m": {
+    "width": 535.3,
+    "height": 713.1
+  },
+  "campus_bounds_m": {
+    "min_x": 59.8,
+    "min_y": 49.9,
+    "max_x": 475.5,
+    "max_y": 663.3
+  },
+  "campus_size_m": {
+    "width": 415.6,
+    "height": 613.4
+  },
+  "campus_area_m2": 164393.9,
+  "building_count": 21
+}

@@ -1,0 +1,13 @@
+{
+  "_help": "Keepsakes. postcard = the PNG she can save at the finale: title and subtitle are drawn in a tiny pixel font, so keep them short (capitals look best; a comma in the title splits it over two lines, with the part after the comma drawn big). fileName = the name of the downloaded file. memoryWall = the corkboard of everyone's photos, shown at this location id. placePhotos = photos standing on the floor of a place as a little pixel polaroid on an easel; tapping it opens the real photo. Key = location id. photo = assets/photos/<file>.jpg (square looks best); title = heading above it; optional photoDate and photoCaption go on the back (the place name is stamped automatically); optional at = [x, y] in 192x288 art px for where it stands (default: an empty spot on the floor).",
+  "postcard": {
+    "title": "HAPPY BIRTHDAY, V!",
+    "subtitle": "VNR VJIET",
+    "fileName": "happy-birthday-v.png"
+  },
+  "memoryWall": {
+    "location": "sac",
+    "title": "Memory Wall"
+  },
+  "placePhotos": {}
+}

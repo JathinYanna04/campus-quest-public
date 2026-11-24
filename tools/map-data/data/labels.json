@@ -1,0 +1,212 @@
+{
+  "B01": {
+    "label": "",
+    "osm_name": "Vignana Jyothi Institute of Management",
+    "area_m2": 2713.8,
+    "include": true,
+    "notes": ""
+  },
+  "B02": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 26.4,
+    "include": true,
+    "notes": ""
+  },
+  "B03": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 679.6,
+    "include": true,
+    "notes": ""
+  },
+  "B04": {
+    "label": "",
+    "osm_name": "Kode Venkatadri Chowdhary Sports Complex",
+    "area_m2": 1676.0,
+    "include": true,
+    "notes": ""
+  },
+  "B05": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 291.7,
+    "include": true,
+    "notes": ""
+  },
+  "B06": {
+    "label": "Parking",
+    "osm_name": "Student Parking",
+    "area_m2": 289.1,
+    "include": true,
+    "notes": ""
+  },
+  "B07": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 138.0,
+    "include": true,
+    "notes": ""
+  },
+  "B08": {
+    "label": "",
+    "osm_name": "SAC",
+    "area_m2": 138.5,
+    "include": true,
+    "notes": ""
+  },
+  "B09": {
+    "label": "",
+    "osm_name": "Automobile Sheds",
+    "area_m2": 458.1,
+    "include": true,
+    "notes": ""
+  },
+  "B10": {
+    "label": "B Block",
+    "osm_name": "Patrons Bhavan B-Block",
+    "area_m2": 5408.5,
+    "include": true,
+    "notes": ""
+  },
+  "B11": {
+    "label": "",
+    "osm_name": "Instrumentation Workshop",
+    "area_m2": 724.2,
+    "include": true,
+    "notes": ""
+  },
+  "B12": {
+    "label": "",
+    "osm_name": "Mechanical Workshop",
+    "area_m2": 689.2,
+    "include": true,
+    "notes": ""
+  },
+  "B13": {
+    "label": "PG Block",
+    "osm_name": "PG Block.",
+    "area_m2": 1594.4,
+    "include": true,
+    "notes": ""
+  },
+  "B14": {
+    "label": "",
+    "osm_name": "Civil Workshop",
+    "area_m2": 735.5,
+    "include": true,
+    "notes": ""
+  },
+  "B15": {
+    "label": "",
+    "osm_name": "Generator Room",
+    "area_m2": 137.4,
+    "include": true,
+    "notes": ""
+  },
+  "B16": {
+    "label": "D Block",
+    "osm_name": "D-Block",
+    "area_m2": 2838.4,
+    "include": true,
+    "notes": ""
+  },
+  "B17": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 594.6,
+    "include": true,
+    "notes": ""
+  },
+  "B18": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 1592.3,
+    "include": true,
+    "notes": ""
+  },
+  "B19": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 1330.7,
+    "include": true,
+    "notes": ""
+  },
+  "B20": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 1007.2,
+    "include": true,
+    "notes": ""
+  },
+  "B21": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 72.8,
+    "include": true,
+    "notes": ""
+  },
+  "M01": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 463.4,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M02": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 257.8,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M03": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 740.7,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M04": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 253.7,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M05": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 125.8,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M06": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 183.9,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M07": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 194.9,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M08": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 221.9,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  },
+  "M09": {
+    "label": "",
+    "osm_name": "",
+    "area_m2": 418.3,
+    "include": false,
+    "notes": "satellite-detected candidate; set include=true if it is a real building"
+  }
+}

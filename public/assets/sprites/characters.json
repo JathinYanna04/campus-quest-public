@@ -1,0 +1,195 @@
+{
+  "player": "vaishali",
+  "order": [
+    "jathin",
+    "anudeep",
+    "laasya",
+    "asritha",
+    "joel",
+    "bhavana",
+    "prabhu"
+  ],
+  "characters": {
+    "vaishali": {
+      "name": "Vaishali",
+      "large": {
+        "file": "vaishali.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "vaishali_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/vaishali.png",
+        "w": 48,
+        "h": 11
+      },
+      "walk": null
+    },
+    "jathin": {
+      "name": "Jathin",
+      "large": {
+        "file": "jathin.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "jathin_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/jathin.png",
+        "w": 39,
+        "h": 11
+      },
+      "walk": null
+    },
+    "anudeep": {
+      "name": "Anudeep",
+      "large": {
+        "file": "anudeep.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "anudeep_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/anudeep.png",
+        "w": 47,
+        "h": 11
+      },
+      "walk": null
+    },
+    "laasya": {
+      "name": "Laasya",
+      "large": {
+        "file": "laasya.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "laasya_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/laasya.png",
+        "w": 42,
+        "h": 11
+      },
+      "walk": null
+    },
+    "asritha": {
+      "name": "Asritha",
+      "large": {
+        "file": "asritha.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "asritha_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/asritha.png",
+        "w": 44,
+        "h": 11
+      },
+      "walk": null
+    },
+    "joel": {
+      "name": "Joel",
+      "large": {
+        "file": "joel.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "joel_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/joel.png",
+        "w": 28,
+        "h": 11
+      },
+      "walk": null
+    },
+    "bhavana": {
+      "name": "Bhavana",
+      "large": {
+        "file": "bhavana.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "bhavana_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/bhavana.png",
+        "w": 50,
+        "h": 11
+      },
+      "walk": null
+    },
+    "prabhu": {
+      "name": "Prabhu",
+      "large": {
+        "file": "prabhu.png",
+        "w": 64,
+        "h": 96,
+        "feetY": 96
+      },
+      "small": {
+        "file": "prabhu_map.png",
+        "w": 28,
+        "h": 32,
+        "feetY": 32
+      },
+      "tag": {
+        "file": "tags/prabhu.png",
+        "w": 42,
+        "h": 11
+      },
+      "walk": null
+    }
+  },
+  "fx": {
+    "bang": "fx/bang.png",
+    "heart": "fx/heart.png",
+    "sparkle": "fx/sparkle.png",
+    "sparkleFrame": {
+      "w": 7,
+      "h": 7,
+      "frames": 4
+    },
+    "largeFxScale": 2,
+    "shadow": "fx/shadow.png",
+    "shadowSmall": "fx/shadow_small.png"
+  }
+}

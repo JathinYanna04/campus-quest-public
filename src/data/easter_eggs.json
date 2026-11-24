@@ -1,0 +1,191 @@
+{
+  "_help": "Hidden things to tap. Each tap shows the next line in 'lines' (it loops back to the first after the last one), and the game remembers where she got to. mapSpots: x, y = a point on the campus map (1071 x 1427 px, 0.5 m per px), radius = how close a tap must land in map px, walkTo = true if she walks to the nearest path first. locationSpots: per location id. emptyLines = what she says when nobody is waiting there; stageZones = tappable rectangles on the 192 x 288 location picture, rect = [x, y, width, height] from its top-left corner. Replace these default lines with your own inside jokes.",
+  "mapSpots": [
+    {
+      "id": "bus-bay",
+      "x": 609,
+      "y": 712,
+      "radius": 16,
+      "walkTo": true,
+      "lines": [
+        "The college buses, parked in a perfect row.",
+        "Every evening, the great race for a window seat.",
+        "Somewhere in there is a seat with your name on it."
+      ]
+    },
+    {
+      "id": "court-north",
+      "x": 340,
+      "y": 842,
+      "radius": 18,
+      "walkTo": true,
+      "lines": [
+        "The basketball court. Nobody ever passes the ball.",
+        "Free period plan: sit here and pretend to watch the match."
+      ]
+    },
+    {
+      "id": "court-sports",
+      "x": 525,
+      "y": 432,
+      "radius": 18,
+      "walkTo": true,
+      "lines": [
+        "Another court! This campus really wants you to exercise.",
+        "Maybe after the birthday cake. Maybe."
+      ]
+    },
+    {
+      "id": "bench-sports",
+      "x": 481,
+      "y": 510,
+      "radius": 12,
+      "walkTo": true,
+      "lines": [
+        "A very good bench. Five minutes of rest before the next class?",
+        "Benches like this have heard a lot of gossip."
+      ]
+    },
+    {
+      "id": "vjim-flowers",
+      "x": 572,
+      "y": 382,
+      "radius": 12,
+      "walkTo": true,
+      "lines": [
+        "Little flowers by the path. Someone waters these every day.",
+        "Today they're blooming just for you."
+      ]
+    },
+    {
+      "id": "court-east",
+      "x": 508,
+      "y": 1050,
+      "radius": 20,
+      "walkTo": false,
+      "lines": [
+        "A court way out past E Block. Too far to walk in this heat.",
+        "Okay, fine, it's actually a nice court."
+      ]
+    },
+    {
+      "id": "rocks-east",
+      "x": 787,
+      "y": 452,
+      "radius": 14,
+      "walkTo": false,
+      "lines": [
+        "A suspiciously comfortable-looking rock.",
+        "10/10 sitting spot. Would sit again.",
+        "The rock says happy birthday."
+      ]
+    }
+  ],
+  "locationSpots": {
+    "canteen": {
+      "stageZones": [
+        {
+          "id": "menu",
+          "rect": [108, 96, 68, 50],
+          "lines": [
+            "Tea 10, Samosa 15, Maggi 30. Prices from a happier time.",
+            "The menu hasn't changed in years. Neither has the order."
+          ]
+        },
+        {
+          "id": "ice-cream",
+          "rect": [140, 148, 38, 48],
+          "lines": [
+            "Ice cream counter. It's always ice cream weather.",
+            "One scoop for every year? That's a lot of scoops."
+          ]
+        },
+        {
+          "id": "tables",
+          "rect": [18, 140, 108, 56],
+          "lines": ["The good table, under the umbrella. Claimed by bags since 9 am."]
+        }
+      ]
+    },
+    "ground": {
+      "stageZones": [
+        {
+          "id": "football",
+          "rect": [146, 224, 18, 18],
+          "lines": [
+            "A lonely football. Somebody forgot it after practice.",
+            "Goal! The crowd goes wild. (The crowd is two pigeons.)"
+          ]
+        },
+        {
+          "id": "goal",
+          "rect": [60, 150, 68, 42],
+          "lines": ["The goal post. More selfies happen here than goals."]
+        }
+      ]
+    },
+    "thatibellam": {
+      "emptyLines": [
+        "Mmm, snacks... maybe later :)",
+        "The chai smells amazing. Just one cup?"
+      ],
+      "stageZones": [
+        {
+          "id": "menu",
+          "rect": [144, 126, 38, 46],
+          "lines": [
+            "Chai, bun, vada, laddu. The four food groups.",
+            "Bun and chai: the official fuel of engineering students."
+          ]
+        },
+        {
+          "id": "jars",
+          "rect": [22, 98, 146, 28],
+          "lines": ["So many jars of sweets. The real treasure of the campus."]
+        }
+      ]
+    },
+    "main-gate": {
+      "emptyLines": ["The main gate. Every day starts and ends here."],
+      "stageZones": [
+        {
+          "id": "arch",
+          "rect": [25, 32, 142, 30],
+          "lines": [
+            "VNR VJIET. Home for four whole years.",
+            "Remember the first day walking in through here?"
+          ]
+        },
+        {
+          "id": "security",
+          "rect": [150, 136, 42, 50],
+          "lines": ["ID card? ...Fine, the birthday girl can go in."]
+        }
+      ]
+    },
+    "sac": {
+      "stageZones": [
+        {
+          "id": "notices",
+          "rect": [34, 112, 128, 24],
+          "lines": [
+            "Club posters everywhere. Auditions this Friday!",
+            "Somebody should put up a poster: Happy Birthday!"
+          ]
+        }
+      ]
+    },
+    "a-block": {
+      "stageZones": [
+        {
+          "id": "notice-board",
+          "rect": [50, 130, 48, 40],
+          "lines": [
+            "The notice board. Lab exam schedules, as always.",
+            "No assignments due today. It's a birthday rule."
+          ]
+        }
+      ]
+    }
+  }
+}

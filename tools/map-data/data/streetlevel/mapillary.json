@@ -1,0 +1,461 @@
+[
+  {
+    "id": 162328789075974,
+    "lon": 78.3877355,
+    "lat": 17.5416188,
+    "captured_at": 1536064806018,
+    "compass_angle": 279.14837646484,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 895051894610666,
+    "lon": 78.3879876,
+    "lat": 17.5415778,
+    "captured_at": 1536064803967,
+    "compass_angle": 279.33666992188,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 1399973573719502,
+    "lon": 78.3865768,
+    "lat": 17.5418336,
+    "captured_at": 1536064820592,
+    "compass_angle": 280.44021606445,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 469893467610471,
+    "lon": 78.3866787,
+    "lat": 17.5418387,
+    "captured_at": 1536064820111,
+    "compass_angle": 283.21685791016,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 1144771202613671,
+    "lon": 78.3867216,
+    "lat": 17.5417927,
+    "captured_at": 1536064817571,
+    "compass_angle": 285.74407958984,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 1472803143070875,
+    "lon": 78.3847529,
+    "lat": 17.54212,
+    "captured_at": 1536064838548,
+    "compass_angle": 278.37298583984,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 756741855013456,
+    "lon": 78.386448,
+    "lat": 17.5418796,
+    "captured_at": 1536064823076,
+    "compass_angle": 279.76760864258,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 2088562724620128,
+    "lon": 78.3861905,
+    "lat": 17.5418899,
+    "captured_at": 1536064826612,
+    "compass_angle": 280.10272216797,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 318447519832514,
+    "lon": 78.3857936,
+    "lat": 17.5419615,
+    "captured_at": 1536064830583,
+    "compass_angle": 279.88305664062,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 1937959869695493,
+    "lon": 78.3880413,
+    "lat": 17.5415983,
+    "captured_at": 1536064803563,
+    "compass_angle": 278.68792724609,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 1575474012658195,
+    "lon": 78.3860886,
+    "lat": 17.5419103,
+    "captured_at": 1536064827612,
+    "compass_angle": 281.08813476562,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 4517773258251994,
+    "lon": 78.3882236,
+    "lat": 17.541542,
+    "captured_at": 1536064802152,
+    "compass_angle": 278.96276855469,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 3970721889672484,
+    "lon": 78.3874458,
+    "lat": 17.5416853,
+    "captured_at": 1536064808564,
+    "compass_angle": 279.30261230469,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 364201948387270,
+    "lon": 78.3844471,
+    "lat": 17.5421609,
+    "captured_at": 1536064840593,
+    "compass_angle": 279.02255249023,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 3972895859497542,
+    "lon": 78.3859438,
+    "lat": 17.5419564,
+    "captured_at": 1536064828060,
+    "compass_angle": 280.67422485352,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 175361804466415,
+    "lon": 78.3857131,
+    "lat": 17.5419973,
+    "captured_at": 1536064830072,
+    "compass_angle": 279.98425292969,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 151232607005645,
+    "lon": 78.3868235,
+    "lat": 17.5417773,
+    "captured_at": 1536064815624,
+    "compass_angle": 274.27264404297,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 294252072259984,
+    "lon": 78.3882934,
+    "lat": 17.5415574,
+    "captured_at": 1536064801565,
+    "compass_angle": 278.71780395508,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 218259453085783,
+    "lon": 78.3843184,
+    "lat": 17.5422172,
+    "captured_at": 1536064840102,
+    "compass_angle": 280.07000732422,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 1591226931066122,
+    "lon": 78.3869523,
+    "lat": 17.5417671,
+    "captured_at": 1536064813622,
+    "compass_angle": 278.73403930664,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 770061873699035,
+    "lon": 78.3837014,
+    "lat": 17.5422939,
+    "captured_at": 1536064845097,
+    "compass_angle": 283.15631103516,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 731402240862136,
+    "lon": 78.3855629,
+    "lat": 17.5419973,
+    "captured_at": 1536064832573,
+    "compass_angle": 278.90576171875,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 567757004186705,
+    "lon": 78.3854502,
+    "lat": 17.5420382,
+    "captured_at": 1536064832139,
+    "compass_angle": 279.49475097656,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 3871025273017823,
+    "lon": 78.3851767,
+    "lat": 17.5420587,
+    "captured_at": 1536064835549,
+    "compass_angle": 278.80267333984,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 2562236074078193,
+    "lon": 78.3849138,
+    "lat": 17.5421251,
+    "captured_at": 1536064836003,
+    "compass_angle": 279.162109375,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 2942709379342259,
+    "lon": 78.3841413,
+    "lat": 17.5422121,
+    "captured_at": 1536064842561,
+    "compass_angle": 279.62475585938,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 3936132939837867,
+    "lon": 78.3866304,
+    "lat": 17.5418182,
+    "captured_at": 1536064819569,
+    "compass_angle": 287.79116821289,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 293602652365687,
+    "lon": 78.3870864,
+    "lat": 17.5417313,
+    "captured_at": 1536064812181,
+    "compass_angle": 282.48602294922,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 1398452403857055,
+    "lon": 78.3850372,
+    "lat": 17.5420791,
+    "captured_at": 1536064836572,
+    "compass_angle": 278.50610351562,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 1211311972719461,
+    "lon": 78.3871186,
+    "lat": 17.5417364,
+    "captured_at": 1536064811621,
+    "compass_angle": 280.44082641602,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 1141627286345206,
+    "lon": 78.3858901,
+    "lat": 17.5419461,
+    "captured_at": 1536064829613,
+    "compass_angle": 279.87475585938,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 3880567981979129,
+    "lon": 78.3838409,
+    "lat": 17.5422684,
+    "captured_at": 1536064844040,
+    "compass_angle": 281.33380126953,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 786719338687726,
+    "lon": 78.3853108,
+    "lat": 17.5420382,
+    "captured_at": 1536064834541,
+    "compass_angle": 279.73889160156,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 227049269222034,
+    "lon": 78.3840019,
+    "lat": 17.5422735,
+    "captured_at": 1536064842157,
+    "compass_angle": 281.49227905273,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 906009333573841,
+    "lon": 78.3856809,
+    "lat": 17.5419768,
+    "captured_at": 1536064831580,
+    "compass_angle": 279.62149047852,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 885405738682291,
+    "lon": 78.3842969,
+    "lat": 17.5421865,
+    "captured_at": 1536064841589,
+    "compass_angle": 279.49743652344,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 600907461062519,
+    "lon": 78.3865231,
+    "lat": 17.5418387,
+    "captured_at": 1536064821624,
+    "compass_angle": 277.34213256836,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 281016963684945,
+    "lon": 78.3879179,
+    "lat": 17.5416136,
+    "captured_at": 1536064804561,
+    "compass_angle": 279.11077880859,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 812675013020528,
+    "lon": 78.3851713,
+    "lat": 17.5420842,
+    "captured_at": 1536064834155,
+    "compass_angle": 279.32455444336,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 540686663768202,
+    "lon": 78.3840662,
+    "lat": 17.5422223,
+    "captured_at": 1536064843067,
+    "compass_angle": 279.6247253418,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 825773895016393,
+    "lon": 78.3872741,
+    "lat": 17.5416955,
+    "captured_at": 1536064810132,
+    "compass_angle": 280.23870849609,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 1906569706164191,
+    "lon": 78.384608,
+    "lat": 17.5421405,
+    "captured_at": 1536064839548,
+    "compass_angle": 278.88861083984,
+    "is_pano": false,
+    "sequence": "ceqBG85RRv2MfVdb9MNGAg"
+  },
+  {
+    "id": 180747183918448,
+    "lon": 78.3874995,
+    "lat": 17.5416546,
+    "captured_at": 1536064808049,
+    "compass_angle": 279.55529785156,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 2166577726974829,
+    "lon": 78.3876711,
+    "lat": 17.5416495,
+    "captured_at": 1536064806561,
+    "compass_angle": 278.43359375,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 909786543137461,
+    "lon": 78.386904,
+    "lat": 17.5417671,
+    "captured_at": 1536064815147,
+    "compass_angle": 281.14654541016,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 1107130713129122,
+    "lon": 78.3867699,
+    "lat": 17.5417824,
+    "captured_at": 1536064816588,
+    "compass_angle": 278.50350952148,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 295948588687193,
+    "lon": 78.3846241,
+    "lat": 17.5421661,
+    "captured_at": 1536064838038,
+    "compass_angle": 279.07986450195,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 3725738717535638,
+    "lon": 78.3873332,
+    "lat": 17.5417006,
+    "captured_at": 1536064809561,
+    "compass_angle": 279.27703857422,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 2133278663645753,
+    "lon": 78.3863622,
+    "lat": 17.5418643,
+    "captured_at": 1536064824652,
+    "compass_angle": 278.45855712891,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  },
+  {
+    "id": 158628549600864,
+    "lon": 78.3861583,
+    "lat": 17.5419205,
+    "captured_at": 1536064826042,
+    "compass_angle": 278.67193603516,
+    "is_pano": false,
+    "sequence": "U4FWAkkeTe-SC4aGL1vHZw"
+  },
+  {
+    "id": 857943631601665,
+    "lon": 78.3864319,
+    "lat": 17.5418541,
+    "captured_at": 1536064823656,
+    "compass_angle": 279.12377929688,
+    "is_pano": false,
+    "sequence": "pTp8vXbXQ1mfpYagnPOj5g"
+  }
+]

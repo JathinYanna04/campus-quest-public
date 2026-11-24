@@ -1,0 +1,8 @@
+{
+  "_help": "Quiz is OFF (no friend entries), so letters open straight away. To turn it on for a friend, add an entry like \"jathin\": { \"question\": \"...\", \"options\": [\"a\", \"b\", \"c\"], \"answer\": 0, \"correct_line\": \"...\", \"wrong_line\": \"...\" }. options: 3 or 4 choices; answer: the index of the right one (0 = first). Options are shuffled on screen. score_lines: shown with the score at the finale (perfect = all right, good = at least half, low = fewer).",
+  "score_lines": {
+    "perfect": "[PLACEHOLDER] A perfect score! You know every one of us by heart.",
+    "good": "[PLACEHOLDER] Pretty great! You know us better than we know ourselves.",
+    "low": "[PLACEHOLDER] Haha, looks like we owe you more canteen trips together!"
+  }
+}

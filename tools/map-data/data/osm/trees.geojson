@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"osm_type": "node", "osm_id": 3964654896, "denotation": "urban", "leaf_cycle": "evergreen", "leaf_type": "broadleaved", "natural": "tree"}, "geometry": {"type": "Point", "coordinates": [78.3851164, 17.5385356]}}]}

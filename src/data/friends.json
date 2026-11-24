@@ -1,0 +1,10 @@
+{
+  "_help": "Where each friend waits. location = one of: a-block, b-block, c-block, d-block, e-block, pg-block, peb, siniti, sac, sports-complex, vjim, canteen, ground, main-gate, thatibellam. Several friends can share a location. pose = left or right (which way they face). Delete \"placeholder\": true once you've picked the real spot.",
+  "jathin":  { "location": "sac",            "pose": "left",  "placeholder": true },
+  "anudeep": { "location": "d-block",        "pose": "left",  "placeholder": true },
+  "laasya":  { "location": "pg-block",       "pose": "right", "placeholder": true },
+  "asritha": { "location": "e-block",        "pose": "left",  "placeholder": true },
+  "joel":    { "location": "sports-complex", "pose": "right", "placeholder": true },
+  "bhavana": { "location": "b-block",        "pose": "right", "placeholder": true },
+  "prabhu":  { "location": "vjim",           "pose": "right", "placeholder": true }
+}
